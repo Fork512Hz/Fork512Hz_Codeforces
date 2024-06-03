@@ -1,0 +1,11 @@
+5
+7 1 5
+abacaba
+9 1 6
+abababcab
+10 1 10
+aaaaaaawac
+9 1 9
+abafababa
+7 2 7
+vvzvvvv
